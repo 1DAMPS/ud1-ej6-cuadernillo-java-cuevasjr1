@@ -4,6 +4,6 @@ public class ej03 {
         System.out.println("Dime cuantos años tienes");
         Scanner sc = new Scanner(System.in);
         int edad = sc.nextInt();
-        System.out.println("Tienes edad años");
+        System.out.println("Tienes " + edad + " años");
     }
 }
